@@ -27,12 +27,13 @@ A Python-based Command Line Interface (CLI) application to manage a contact book
 ---
 
 ## File Structure
--📂 Project Directory:
--├── main.py             # Entry point; CLI menu and program flow.
--├── contact.py          # Defines the Contact class.
--├── contact_manager.py  # Core contact operations (add, view, remove, search).
--├── file_manager.py     # Handles file I/O for loading and saving contacts.
--└── contacts.csv        # Storage file for contact data.
+
+- 📂 Project Directory:
+- ├── main.py             # Entry point; CLI menu and program flow.
+- ├── contact.py          # Defines the Contact class.
+- ├── contact_manager.py  # Core contact operations (add, view, remove, search).
+- ├── file_manager.py     # Handles file I/O for loading and saving contacts.
+- └── contacts.csv        # Storage file for contact data.
 
 ---
 
